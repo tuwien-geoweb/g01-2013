@@ -13,6 +13,17 @@
           48.16236424172609
         ]
       }
+    },
+     "type": "Feature",
+      "properties": {
+        "larifari": "Horr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.487009620666504,
+          48.16236424172609  ]
+      }
     }
   ]
 }
