@@ -1,0 +1,18 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Stadion": "Horr"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.387009620666504,
+          48.16236424172609
+        ]
+      }
+    }
+  ]
+}
