@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Stadion": "Horr"
+        "Student": "Niel"
       },
       "geometry": {
         "type": "Point",
@@ -17,13 +17,25 @@
     { 
      "type": "Feature",
       "properties": {
-        "larifari": "Horr"
+        "Student": "Schalk"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           16.487009620666504,
           48.16236424172609  ]
+      }
+    },
+    { 
+     "type": "Feature",
+      "properties": {
+        "Student": "Timmerer"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          16.350574493408203,
+          48.16116195751926 ]
       }
     }
   ]
