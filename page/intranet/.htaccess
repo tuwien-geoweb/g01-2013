@@ -1,0 +1,6 @@
+# .htaccess-Datei fuer Web-Verzeichnis http://student.ifip.tuwien.ac.at/geoweb/2013/g01/intranet/intern
+AuthType Basic
+AuthName "Zugang für den internen Bereich der Gruppe G01"
+AuthUserFile /scratch/users/geoweb2013/htdocs/g01/intranet/.htpasswd
+AuthGroupFile /dev/null
+require user geoweb geoweb2013
